@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Vanderson</h1>
-<h3 align="center">Futuro Cientista da Computação, Entusiasta da área de dados:chart_with_upwards_trend:
+<h3 align="center">Futuro Cientista da Computação, Entusiasta da área de dados :chart_with_upwards_trend:
 .</h3>
 
 
